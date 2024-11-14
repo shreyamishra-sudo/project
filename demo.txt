@@ -1,4 +1,6 @@
 second text file vial local disk
 this text is extra after edit
 
+new change for recap
+ new change 
 this change is again new and is made form command window.
